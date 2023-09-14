@@ -1,0 +1,16 @@
+{
+  "collection": "@nestjs/schematics",
+  "monorepo": false,
+  "sourceRoot": "src",
+  "language": "ts",
+  "generateOptions": {
+    "spec": true
+  },
+  "compilerOptions": {
+    "webpack": false,
+    "deleteOutDir": true,
+    "assets": [],
+    "watchAssets": false,
+    "plugins": []
+  }
+}
