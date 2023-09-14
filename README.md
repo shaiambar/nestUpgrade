@@ -1,0 +1,1 @@
+this is a minimal reproduction for problem with nest build after upgrade nest version 9.2.1 -> 10.2.4
